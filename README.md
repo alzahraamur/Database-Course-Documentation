@@ -13,7 +13,7 @@ The main report is available in [`report.md`](report.md) and includes the follow
 
  Files Included:
 - `report.md`: Full detailed report  
-- `mindmap.png` (optional): Mind map image uploaded separately
+- `advantages-dbms.png` : Mind map image uploaded separately
 
 Objective:
 To develop analytical and reporting skills through the exploration of essential database topics and tools.
