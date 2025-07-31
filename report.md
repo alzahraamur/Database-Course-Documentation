@@ -12,3 +12,21 @@ The table below compares Flat File Systems and Relational Databases based on sev
 | **Drawbacks**      | Difficult to manage, lacks data integrity, prone to inconsistency. | More complex to set up but offers scalability and consistency. |
 
 
+## 2. Mind Map: Advantages of DBMS
+
+The following mind map illustrates the key advantages of Database Management Systems (DBMS), including Security, Integrity, Backup, Redundancy, Concurrency, and Data Sharing.
+
+![DBMS Mind Map](advantages-dbms.png)
+
+---
+
+### 🔍 Explanation of Each Feature:
+
+| Feature          | Meaning in English                                             |
+|------------------|----------------------------------------------------------------|
+| 🔒 Security       | Protecting data from unauthorized access                      |
+| ✅ Integrity      | Ensuring data accuracy and preventing unauthorized changes    |
+| 💾 Backup         | Creating copies of data for recovery in case of loss          |
+| ❌ Redundancy     | Minimizing data duplication and storage repetition            |
+| 🔄 Concurrency    | Allowing multiple users to access and modify data simultaneously |
+| 🔗 Data Sharing   | Enabling multiple users or systems to access shared data      | 
