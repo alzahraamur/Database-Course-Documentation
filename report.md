@@ -113,3 +113,33 @@ Databases can be categorized based on their structure and deployment model. Belo
 | Centralized           | All data stored in one location                | Local applications                 |
 | Distributed           | Data spread across multiple systems/servers   | E-commerce, large systems          |
 | Cloud-based           | Hosted on cloud platforms                     | Web apps, scalable enterprise apps |
+
+
+
+
+## 5. Cloud Storage & Databases
+
+Cloud storage and databases are essential parts of modern computing. Here's how they relate:
+
+ What is Cloud Storage?
+- Cloud storage allows users to store data online using third-party services.
+- It provides remote access, scalability, and automatic backups.
+
+ How Cloud Storage Supports Databases
+- Many modern databases are cloud-hosted, offering managed services.
+- They allow users to create, store, and access databases from anywhere.
+- Examples: Amazon RDS, Google Cloud Spanner, Azure SQL Database.
+
+Advantages of Cloud-Based Databases
+- Scalability: Easily scale resources as data grows.
+- Availability: High uptime and global access.
+- Backup & Recovery: Automatic backups and disaster recovery options.
+- Managed Services: No need to worry about installation or maintenance.
+
+ Disadvantages / Challenges
+- Dependency on Internet: Requires stable internet access.
+- Data Privacy Concerns: Sensitive data stored on external servers.
+- Recurring Costs: Subscription-based pricing may become expensive long-term.
+- Limited Customization: Less control over low-level configuration.
+
+
