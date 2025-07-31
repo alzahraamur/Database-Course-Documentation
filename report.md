@@ -62,3 +62,54 @@ A successful database project requires collaboration between several specialized
  Business Intelligence (BI) Developer
 - Analyzes data stored in the database to generate insights.
 - Creates reports, dashboards, and visualizations to support business decision-making.
+
+
+## 4. Types of Databases
+
+Databases can be categorized based on their structure and deployment model. Below are the main types:
+
+ Relational Databases (RDBMS)
+- Store data in structured tables with rows and columns.
+- Support SQL (Structured Query Language) for querying and manipulating data.
+- **Examples**: MySQL, PostgreSQL, Oracle, Microsoft SQL Server.
+- **Use Case**: Banking systems, HR systems, CRM applications.
+
+ Non-Relational Databases (NoSQL)
+- Store data in flexible formats such as key-value pairs, documents, graphs, or wide-column stores.
+- Do not require a fixed schema.
+- **Examples**: MongoDB (document), Cassandra (wide-column), Redis (key-value).
+- **Use Case**: Real-time analytics, social media apps, big data applications.
+
+---
+
+ Cloud Databases
+- Hosted and managed on cloud platforms.
+- Provide scalability, automated backups, and remote access.
+- **Examples**: Amazon RDS, Google Cloud Spanner, Azure SQL Database.
+- **Use Case**: Web apps, SaaS platforms, global enterprise systems.
+
+---
+
+ Centralized Databases
+- All data is stored and managed in a single location.
+- Easy to manage but can be a single point of failure.
+- **Use Case**: Small businesses, local systems.
+
+---
+
+ Distributed Databases
+- Data is distributed across multiple locations or servers.
+- Offers better reliability and performance for large-scale systems.
+- **Use Case**: Global e-commerce platforms, content delivery networks.
+
+---
+
+### 📌 Summary Table:
+
+| Type                  | Description                                   | Example Uses                       |
+|-----------------------|-----------------------------------------------|------------------------------------|
+| Relational            | Structured tables and SQL support             | Banking, HR, CRM                   |
+| Non-Relational (NoSQL)| Flexible schema for unstructured data         | Big data, social apps              |
+| Centralized           | All data stored in one location                | Local applications                 |
+| Distributed           | Data spread across multiple systems/servers   | E-commerce, large systems          |
+| Cloud-based           | Hosted on cloud platforms                     | Web apps, scalable enterprise apps |
